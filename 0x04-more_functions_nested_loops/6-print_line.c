@@ -1,9 +1,11 @@
 #include "main.h"
 /**
- * print_line - prints a line
+ * print_line - printing lines
+ * @n: number of times
  *
- * @n: integer to print stuff?
+ * Return: void
  */
+
 void print_line(int n)
 {
 	int i;
